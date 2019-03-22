@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # Filename: codenames.py
 """
-
+codename generator
+W Rolls 2019
 """
 
 import random
@@ -12,7 +13,7 @@ def codename(n=10):
     for i in range(n):
         word1 = random.choice(adjective)
         word2 = random.choice(noun)
-        print(f"{word1} {word2}")
+        print(f"{word1}-{word2}")
     return
 
 
