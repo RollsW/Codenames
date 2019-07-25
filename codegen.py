@@ -9,6 +9,7 @@ import random
 from adjectives import adjectives as adjective
 from nouns import nouns as noun
 
+
 def codename(n=10):
     for i in range(n):
         word1 = random.choice(adjective)
