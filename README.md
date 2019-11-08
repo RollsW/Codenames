@@ -1,4 +1,4 @@
-# Long-Cedar
+# Codenames
 A project codename generator. Super simple, super quick, suuuper sneaky...
 
 The project holds three files, 
